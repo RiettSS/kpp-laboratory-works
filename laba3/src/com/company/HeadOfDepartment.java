@@ -2,6 +2,8 @@ package com.company;
 
 public class HeadOfDepartment extends Person {
 
+
+
     @Override
     public void Speak() {
         System.out.println("I'm head of department");
